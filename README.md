@@ -86,9 +86,3 @@ lib/screens/home_page.dart provides a simple UI to paste a URL, toggle security,
 - The app intentionally omits features like share, print, and system-wide save controls to reduce data exfiltration paths.
 - No solution can absolutely prevent all forms of copying (e.g., taking a photo of the screen). This app focuses on practical protections.
 
-## Contributing
-- Code style: Flutter lints are enabled.
-- Use English for code and comments.
-
-## Support
-If you need a backend (analytics, auth, storage), use the Firebase or Supabase panels in Dreamflow to add an integration. This app works fully offline with just a URL.
