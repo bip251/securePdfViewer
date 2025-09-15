@@ -1,0 +1,28 @@
+name: inkwell
+description: "Unveiling a pure Flutter PDF viewer, this app elegantly renders online PDFs page-by-page, offering smooth navigation, fullscreen immersion, and robust security features—all without external libraries."
+publish_to: "none"
+version: 1.0.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: assets/icons/dreamflow_icon.jpg
+  remove_alpha_ios: true
