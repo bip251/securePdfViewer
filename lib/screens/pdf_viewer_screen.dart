@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:inkwell/widgets/pdf_viewer_widget.dart';
-import 'package:inkwell/secure_pdf_viewer.dart';
+import 'package:spv/widgets/pdf_viewer_widget.dart';
+import 'package:spv/secure_pdf_viewer.dart';
 
 class PdfViewerScreen extends StatefulWidget {
   final String pdfUrl;

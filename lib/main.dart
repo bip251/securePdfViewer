@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:inkwell/theme.dart';
-import 'package:inkwell/screens/home_page.dart';
+import 'package:spv/theme.dart';
+import 'package:spv/screens/home_page.dart';
 
 void main() {
   runApp(const MyApp());

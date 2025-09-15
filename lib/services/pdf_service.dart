@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 import 'dart:ui' as ui;
 import 'package:flutter/foundation.dart';
-import 'package:inkwell/services/pdf_platform_channel.dart';
+import 'package:spv/services/pdf_platform_channel.dart';
 
 class PdfService extends ChangeNotifier {
   int _totalPages = 0;

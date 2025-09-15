@@ -1,4 +1,4 @@
-package com.example.inkwell
+package com.secure.pdf.viewer
 
 import android.graphics.Bitmap
 import android.graphics.pdf.PdfRenderer

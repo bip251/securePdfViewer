@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:inkwell/services/pdf_service.dart';
+import 'package:spv/services/pdf_service.dart';
 
 class PdfPageView extends StatefulWidget {
   final PdfService pdfService;

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/foundation.dart' show kIsWeb;
-import 'package:inkwell/services/pdf_service.dart';
-import 'package:inkwell/widgets/pdf_page_view.dart';
-import 'package:inkwell/widgets/pdf_controls.dart';
-import 'package:inkwell/widgets/pdf_web_view.dart' as pdf_web;
-import 'package:inkwell/secure_pdf_viewer.dart';
+import 'package:spv/services/pdf_service.dart';
+import 'package:spv/widgets/pdf_page_view.dart';
+import 'package:spv/widgets/pdf_controls.dart';
+import 'package:spv/widgets/pdf_web_view.dart' as pdf_web;
+import 'package:spv/secure_pdf_viewer.dart';
 
 class PdfViewerWidget extends StatefulWidget {
   final String pdfUrl;

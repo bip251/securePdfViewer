@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:inkwell/screens/pdf_viewer_screen.dart';
+import 'package:spv/screens/pdf_viewer_screen.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

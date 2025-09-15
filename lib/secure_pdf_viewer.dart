@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:inkwell/screens/pdf_viewer_screen.dart';
+import 'package:spv/screens/pdf_viewer_screen.dart';
 
 /// Granular security options for the Secure PDF Viewer.
 ///
